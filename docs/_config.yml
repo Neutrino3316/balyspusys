@@ -5,6 +5,9 @@ title: "test title"
 name: "test site name"
 description: "test description"
 
+include:
+  - _pages
+
 defaults:
   # _pages
   - scope:
