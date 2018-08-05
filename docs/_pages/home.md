@@ -1,16 +1,10 @@
----
-title: "Page Not Found"
-excerpt: "Page not found. Your pixels are in another canvas."
-sitemap: false
-permalink: /404.html
----
+# 实验室网页
 
-Sorry, but the page you were trying to view does not exist --- perhaps you can try searching for it below.
+[网上注册指引](sign_up_tutorials.md)
 
-<script type="text/javascript">
-  var GOOG_FIXURL_LANG = 'en';
-  var GOOG_FIXURL_SITE = '{{ site.url }}'
-</script>
-<script type="text/javascript"
-  src="//linkhelp.clients.google.com/tbproxy/lh/wm/fixurl.js">
-</script>
+# 备注
+
+由于这个网页在搭建在一个免费的平台上，用的是某位同学的账号，为了安全起见，在网页上不会出现学生助理的具体姓名、联系方式，也不会说明实验室的具体位置，大家自己知道就好了
+
+这个文件位于``docs/_pages`
+
