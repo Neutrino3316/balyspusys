@@ -3,6 +3,7 @@ permalink: /terms/
 title: "Terms and Privacy Policy"
 last_modified_at: 2017-10-20T12:42:38-04:00
 toc: true
+toc_sticky: true
 ---
 
 # 实验室网页
@@ -15,3 +16,14 @@ toc: true
 
 这个文件位于``docs/_pages/index.md`
 
+## h2
+
+astggdf h2
+
+### h3
+
+asfd h3
+
+### another h2
+
+asdf h2
