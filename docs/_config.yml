@@ -1,6 +1,6 @@
-title: Leap Day theme
-description: Leap Day is a theme for GitHub Pages.
-show_downloads: false
-google_analytics:
-# theme: jekyll-theme-leap-day
 remote_theme: mmistakes/minimal-mistakes
+
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+title: "test title"
+name: "test site name"
+description: "test description"
