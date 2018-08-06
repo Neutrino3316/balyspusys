@@ -1,3 +1,13 @@
+---
+title: "sign-up-tutorials"
+permalink: /docs/sign-up-tutorials/
+excerpt: "How to quickly install and setup Minimal Mistakes for use with GitHub Pages."
+last_modified_at: 2017-10-20T12:34:04-04:00
+redirect_from:
+  - /theme-setup/
+toc: true
+---
+
 # 实验室网上预约指引
 
 ## 网上预约平台注册
