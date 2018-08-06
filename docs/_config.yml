@@ -15,7 +15,7 @@ remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "zh-CN"
 title                    : "Site Title"
 title_separator          : "-"
 name                     : "Your Name"
@@ -100,12 +100,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name 2"
+  name             : "实验室指南"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "网上预约平台的网址如下[测试](http://222.200.170.55:8081/)"
+  bio              : "非官方网站"
   location         : # "Somewhere"
   email            :
-  uri              : http://222.200.170.55:8081/
+  uri              : # http://222.200.170.55:8081/
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
