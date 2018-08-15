@@ -8,7 +8,7 @@ toc_sticky: true
 
 # 常用链接
 
-[网上注册指引](https://neutrino3316.github.io/balyspusys/docs/sign-up-tutorials/)
+[网上预约平台注册指引](https://neutrino3316.github.io/balyspusys/docs/sign-up-tutorials/)
 
 # 备注
 

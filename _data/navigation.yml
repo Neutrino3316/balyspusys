@@ -1,0 +1,15 @@
+main:
+  - title: "注册指引"
+    url: /docs/sign-up-tutorials/
+  - title: "值班表"
+    url: /year-archive/
+  - title: "常见问题"
+    url: /categories/
+  # - title: "Tags"
+  #   url: /tags/
+  # - title: "Pages"
+  #   url: /page-archive/
+  # - title: "Collections"
+  #   url: /collection-archive/
+  # - title: "External Link"
+  #   url: https://neutrino3316.github.io/balyspusys/docs/sign-up-tutorials/
