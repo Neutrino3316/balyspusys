@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Site Title"
+title                    : "实验室指南"
 title_separator          : "-"
 name                     : "Your Name"
 description              : "An amazing website."
@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "实验室指南"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "非官方网站"
+  bio              : "学生助理自己建的网站"
   location         : # "Somewhere"
   email            :
   uri              : # http://222.200.170.55:8081/
