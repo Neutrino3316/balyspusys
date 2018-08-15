@@ -2,7 +2,7 @@ main:
   - title: "注册指引"
     url: /docs/sign-up-tutorials/
   - title: "值班表"
-    url: /year-archive/
+    url: /docs/shift-schedule/
   - title: "常见问题"
     url: /categories/
   # - title: "Tags"
