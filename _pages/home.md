@@ -9,6 +9,13 @@ toc_sticky: true
 # 常用链接
 
 [网上预约平台注册指引](https://neutrino3316.github.io/balyspusys/docs/sign-up-tutorials/)
+
+[网上预约平台预约指引](https://neutrino3316.github.io/balyspusys/docs/sign-up-tutorials/)
+
+[实验室使用指引](https://neutrino3316.github.io/balyspusys/docs/sign-up-tutorials/)
+
+[常见问题](https://neutrino3316.github.io/balyspusys/docs/sign-up-tutorials/)
+
 [值班表](https://neutrino3316.github.io/balyspusys/docs/shift-schedule/)
 
 # 备注
