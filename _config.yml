@@ -294,4 +294,5 @@ defaults:
       author_profile: false
       share: false
       comments: false
-      read_time: true
+      sidebar:
+        nav: "docs"

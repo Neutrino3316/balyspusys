@@ -13,3 +13,17 @@ main:
   #   url: /collection-archive/
   # - title: "External Link"
   #   url: https://neutrino3316.github.io/balyspusys/docs/sign-up-tutorials/
+
+docs:
+  - title: 指引
+    children:
+      - title: "注册指引"
+        url: /docs/sign-up-tutorials/
+      - title: "预约指引"
+        url: /docs/structure/
+      - title: "使用指引"
+        url: /docs/installation/
+  - title: 值班表
+    url: /docs/shift-schedule/
+  - title: 常见问题
+    url: /
