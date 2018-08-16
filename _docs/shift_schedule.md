@@ -1,6 +1,6 @@
 ---
 title: "值班表"
-permalink: /docs/shift-schedule/
+permalink: /docs/04-shift-schedule/
 excerpt: "How to quickly install and setup Minimal Mistakes for use with GitHub Pages."
 toc: true
 toc_sticky: true
