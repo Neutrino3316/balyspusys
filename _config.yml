@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "实验室指南"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "学生助理自己建的网站"
+  bio              : "学生助理自己建的网站\n内测版"
   location         : # "Somewhere"
   email            :
   uri              : # http://222.200.170.55:8081/
