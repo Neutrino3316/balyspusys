@@ -1,6 +1,6 @@
 ---
 title: "网上预约平台注册指引"
-permalink: /docs/01-sign-up-tutorials/
+permalink: /docs/01_sign_up_tutorials/
 excerpt: "网上预约平台注册指引"
 <!-- last_modified_at: 2017-10-20T12:34:04-04:00
 redirect_from:

@@ -1,10 +1,14 @@
 main:
   - title: "注册指引"
-    url: /docs/sign-up-tutorials/
-  - title: "值班表"
-    url: /docs/shift-schedule/
-  - title: "常见问题"
-    url: /categories/
+    url: /docs/01_sign_up_tutorials/
+  - title: "预约指引"
+    url: /docs/02_appointment_tutorials/
+  - title: "使用指引"
+    url: /docs/03_lab_usage_tutorials/
+  - title: 值班表
+    url: /docs/04_shift_schedule/
+  - title: 常见问题
+    url: /
   # - title: "Tags"
   #   url: /tags/
   # - title: "Pages"
@@ -18,12 +22,12 @@ docs:
   - title: 指引
     children:
       - title: "注册指引"
-        url: /docs/sign-up-tutorials/
+        url: /docs/01_sign_up_tutorials/
       - title: "预约指引"
-        url: /docs/structure/
+        url: /docs/02_appointment_tutorials/
       - title: "使用指引"
-        url: /docs/installation/
+        url: /docs/03_lab_usage_tutorials/
   - title: 值班表
-    url: /docs/shift-schedule/
+    url: /docs/04_shift_schedule/
   - title: 常见问题
     url: /
