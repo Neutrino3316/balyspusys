@@ -1,6 +1,6 @@
 ---
 title: "实验室使用指引"
-permalink: /docs/03_lab_usage_tutorials/
+permalink: /docs/03-lab-usage-tutorials/
 excerpt: "实验室使用指引"
 <!-- last_modified_at: 2017-10-20T12:34:04-04:00
 redirect_from:
@@ -11,7 +11,7 @@ toc_sticky: true
 
 # 实验室使用指引
 
- 在预约好的时间段内刷卡开门。如预约了小房间（如303A），则大房间的门也可以开的（如303）。
+在预约好的时间段内刷卡开门。如预约了小房间（如303A），则大房间的门也可以开的（如303）。
 
 ## 四种开门方式
 
