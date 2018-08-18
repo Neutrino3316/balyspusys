@@ -8,7 +8,7 @@ main:
   - title: 值班表
     url: /docs/04_shift_schedule/
   - title: 常见问题
-    url: /qanda/00_navigation/
+    url: /QandA/00_navigation/
   # - title: "Tags"
   #   url: /tags/
   # - title: "Pages"
@@ -30,10 +30,10 @@ docs:
   - title: 值班表
     url: /docs/04_shift_schedule/
   - title: 常见问题
-    url: /qanda/00_navigation/
+    url: /QandA/00_navigation/
 
-qanda:
+QandA:
   - title: 问题总览
-    url: /qanda/00_navigation/
-  - title: 开不了门怎么办？
-    url: /qanda/01/
+    url: /QandA/00_navigation/
+  - title: 01-开不了门
+    url: /QandA/01/

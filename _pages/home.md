@@ -12,7 +12,7 @@ toc_sticky: true
 
 [值班表](https://neutrino3316.github.io/balyspusys/docs/04_shift_schedule/)
 
-[常见问题](https://neutrino3316.github.io/balyspusys/qanda/00_navigation/)
+[常见问题](https://neutrino3316.github.io/balyspusys/QandA/00_navigation/)
 
 [实验室使用指引](https://neutrino3316.github.io/balyspusys/docs/sign_up_tutorials/)
 
