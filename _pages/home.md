@@ -8,9 +8,11 @@ toc_sticky: true
 
 # 常用链接
 
+[网上预约平台](http://222.200.170.55:8081)
+
 [值班表](https://neutrino3316.github.io/balyspusys/docs/04_shift_schedule/)
 
-[常见问题](https://neutrino3316.github.io/balyspusys/docs/sign_up_tutorials/)
+[常见问题](https://neutrino3316.github.io/balyspusys/QandA/00_navigation/)
 
 [实验室使用指引](https://neutrino3316.github.io/balyspusys/docs/sign_up_tutorials/)
 
@@ -18,7 +20,9 @@ toc_sticky: true
 
 [网上预约平台注册指引](https://neutrino3316.github.io/balyspusys/docs/01_sign_up_tutorials/)
 
-[网上预约平台](http://222.200.170.55:8081)
+# 说明
+
+这个网站是学生助理自己建的，设有指南、值班表、常见问题等页面，方便大家使用实验室。
 
 # 备注
 
