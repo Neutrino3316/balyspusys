@@ -32,8 +32,8 @@ docs:
   - title: 常见问题
     url: /QandA/00_navigation/
 
-QandA:
+qanda:
   - title: 问题总览
-    url: /QandA/00_navigation/
+    url: /qanda/00_navigation/
   - title: 开不了门怎么办？
-    url: /QandA/01/
+    url: /qanda/01/
