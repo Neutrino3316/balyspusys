@@ -296,10 +296,10 @@ defaults:
       comments: false
       sidebar:
         nav: "docs"
-  # _QandA
+  # _qanda
   - scope:
       path: ""
-      type: QandA
+      type: qanda
     values:
       layout: single
       read_time: false
@@ -307,4 +307,4 @@ defaults:
       share: false
       comments: false
       sidebar:
-        nav: "QandA"
+        nav: "docs"
