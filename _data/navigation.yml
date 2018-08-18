@@ -8,7 +8,7 @@ main:
   - title: 值班表
     url: /docs/04_shift_schedule/
   - title: 常见问题
-    url: /QandA/00_navigation/
+    url: /qanda/00_navigation/
   # - title: "Tags"
   #   url: /tags/
   # - title: "Pages"
@@ -30,7 +30,7 @@ docs:
   - title: 值班表
     url: /docs/04_shift_schedule/
   - title: 常见问题
-    url: /QandA/00_navigation/
+    url: /qanda/00_navigation/
 
 qanda:
   - title: 问题总览

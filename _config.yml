@@ -263,6 +263,9 @@ collections:
   docs:
     output: true
     permalink: /:collection/:path/
+  qanda:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
