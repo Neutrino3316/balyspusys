@@ -8,15 +8,15 @@ toc_sticky: true
 
 # 常用链接
 
-[值班表](https://neutrino3316.github.io/balyspusys/docs/04-shift-schedule/)
+[值班表](https://neutrino3316.github.io/balyspusys/docs/04_shift_schedule/)
 
-[常见问题](https://neutrino3316.github.io/balyspusys/docs/sign-up-tutorials/)
+[常见问题](https://neutrino3316.github.io/balyspusys/docs/sign_up_tutorials/)
 
-[实验室使用指引](https://neutrino3316.github.io/balyspusys/docs/sign-up-tutorials/)
+[实验室使用指引](https://neutrino3316.github.io/balyspusys/docs/sign_up_tutorials/)
 
-[网上预约平台预约指引](https://neutrino3316.github.io/balyspusys/docs/sign-up-tutorials/)
+[网上预约平台预约指引](https://neutrino3316.github.io/balyspusys/docs/sign_up_tutorials/)
 
-[网上预约平台注册指引](https://neutrino3316.github.io/balyspusys/docs/01-sign-up-tutorials/)
+[网上预约平台注册指引](https://neutrino3316.github.io/balyspusys/docs/01_sign_up_tutorials/)
 
 [网上预约平台](http://222.200.170.55:8081)
 
