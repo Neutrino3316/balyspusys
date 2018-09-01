@@ -1,14 +1,14 @@
 main:
+  - title: 值班表
+    url: /docs/04_shift_schedule/
+  - title: 常见问题
+    url: /QandA/00_navigation/
   - title: "注册指引"
     url: /docs/01_sign_up_tutorials/
   - title: "预约指引"
     url: /docs/02_appointment_tutorials/
   - title: "使用指引"
     url: /docs/03_lab_usage_tutorials/
-  - title: 值班表
-    url: /docs/04_shift_schedule/
-  - title: 常见问题
-    url: /QandA/00_navigation/
   # - title: "Tags"
   #   url: /tags/
   # - title: "Pages"
