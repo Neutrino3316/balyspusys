@@ -10,9 +10,9 @@ toc_sticky: true
 
 [网上预约平台](http://222.200.170.55:8081)
 
-[值班表](https://neutrino3316.github.io/balyspusys/docs/04_shift_schedule/)
+[值班表](https://neutrino3316.github.io/balyspusys/docs/rota/)
 
-[常见问题](https://neutrino3316.github.io/balyspusys/QandA/00_navigation/)
+[常见问题](https://neutrino3316.github.io/balyspusys/QandA/navigation/)
 
 [实验室使用指引](https://neutrino3316.github.io/balyspusys/docs/03_lab_usage_tutorials/)
 
