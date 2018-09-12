@@ -19,6 +19,10 @@ main:
   #   url: https://neutrino3316.github.io/balyspusys/docs/sign-up-tutorials/
 
 docs:
+  - title: 值班表
+    url: /docs/rota/
+  - title: 常见问题
+    url: /QandA/navigation/
   - title: 指引
     children:
       - title: "注册指引"
@@ -27,10 +31,7 @@ docs:
         url: /docs/02_appointment_tutorials/
       - title: "使用指引"
         url: /docs/03_lab_usage_tutorials/
-  - title: 值班表
-    url: /docs/rota/
-  - title: 常见问题
-    url: /QandA/navigation/
+ 
 
 QandA:
   - title: 问题总览
