@@ -100,9 +100,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "实验室指南"
+  name             : ""
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "学生助理自己建的网站\n内测版"
+  bio              : "可点击下方链接预约实验房间，请注意在校园网环境下打开"
   location         : # "Somewhere"
   email            :
   uri              : # http://222.200.170.55:8081/
