@@ -18,4 +18,4 @@ toc_sticky: true
    3. 请牢记自己的用户名和密码，建议将用户名设置成NetID或常用论坛的用户名，以免忘记 
    4. 系统会提示打印“心理学系仪器注册表”，不用管他，**不用打印**，不用签名。
 4. 带上校园卡在工作时间内前往303找学生助理审核。如果无法在学生助理的[值班时间](https://neutrino3316.github.io/balyspusys/docs/rota/)内前往303，请参考[常见问题7](https://neutrino3316.github.io/balyspusys/QandA/07/)。审核通过之后就可以上网预约啦。如果有任何问题，如登录不到或者无法预约，请及时向学生助理反馈。
-5. 记得联系学生助理进[实验室的微信群](https://neutrino3316.github.io/balyspusys/QandA/09/)
+5. 记得联系学生助理进[实验室的微信群](https://neutrino3316.github.io/balyspusys/QandA/09/)进去之后请改一下备注`年级－（本or硕or博）－姓名`。
