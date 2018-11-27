@@ -14,6 +14,8 @@ toc_sticky: true
 
 [常见问题](https://neutrino3316.github.io/balyspusys/QandA/navigation/)
 
+[房间列表](https://neutrino3316.github.io/balyspusys/docs/room_list/)
+
 [实验室使用指引](https://neutrino3316.github.io/balyspusys/docs/03_lab_usage_tutorials/)
 
 [网上预约平台预约指引](https://neutrino3316.github.io/balyspusys/docs/02_appointment_tutorials/)
