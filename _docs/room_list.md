@@ -4,6 +4,7 @@ permalink: /docs/room_list/
 excerpt: ""
 toc: true
 toc_sticky: true
+datatable: true
 ---
 
 # 303
