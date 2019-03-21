@@ -3,6 +3,7 @@ permalink: /lab-homepage
 title: "实验室电脑主页"
 toc: true
 toc_sticky: true
+classes: wide
 ---
 
 # 说明

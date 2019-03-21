@@ -3,6 +3,7 @@ permalink: /building-computer
 title: "实验室电脑环境建设"
 toc: true
 toc_sticky: true
+classes: wide
 ---
 
 近期会对实验室的电脑进行系统升级，会在除脑电、眼动和归老师管的电脑上安装Windows10专业版系统，到时候电脑上的所以文件、软件等数据均会被清空，请主试在**每次实验完成后务必把数据拿走**。

@@ -7,6 +7,7 @@ redirect_from:
   - /theme-setup/ -->
 toc: true
 toc_sticky: true
+classes: wide
 ---
 
 
