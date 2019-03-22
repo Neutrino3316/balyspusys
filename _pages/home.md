@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "实验室指南主页"
+classes: wide
 
 ---
 
