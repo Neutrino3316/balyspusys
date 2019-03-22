@@ -1,8 +1,6 @@
 ---
 permalink: /building-computer
 title: "实验室电脑环境建设"
-toc: true
-toc_sticky: true
 classes: wide
 ---
 

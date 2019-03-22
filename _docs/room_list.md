@@ -2,8 +2,6 @@
 title: "房间列表"
 permalink: /docs/room_list/
 excerpt: "房间的预约信息"
-toc: true
-toc_sticky: true
 datatable: true
 classes: wide
 ---

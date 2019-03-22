@@ -2,11 +2,6 @@
 title: "实验室使用指引"
 permalink: /docs/03_lab_usage_tutorials/
 excerpt: "实验室使用指引"
-<!-- last_modified_at: 2017-10-20T12:34:04-04:00
-redirect_from:
-  - /theme-setup/ -->
-toc: true
-toc_sticky: true
 classes: wide
 ---
 

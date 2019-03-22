@@ -2,11 +2,6 @@
 title: "网上预约平台预约指引"
 permalink: /docs/02_appointment_tutorials/
 excerpt: "网上预约平台预约指引"
-<!-- last_modified_at: 2017-10-20T12:34:04-04:00
-redirect_from:
-  - /theme-setup/ -->
-toc: true
-toc_sticky: true
 classes: wide
 ---
 

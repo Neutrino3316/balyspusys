@@ -2,8 +2,6 @@
 title: "值班表"
 permalink: /docs/rota/
 excerpt: "实验室助理的值班表"
-toc: true
-toc_sticky: true
 classes: wide
 ---
 
