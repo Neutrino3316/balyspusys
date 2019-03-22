@@ -5,21 +5,25 @@ classes: wide
 
 ---
 
+# 重要提醒
+
+为了规范使用各实验室，系实验室管理委员会对使用实验室的所有学生（包括本科生和研究生）进行规范操作，详细内容请前往[网上预约平台-文档下载中心](http://222.200.170.55:8081/Article/ShowList?ArticleCategoryId=8af1dbc8-9540-4471-b234-4586228e5c09&XPath=000)下载相关文档进行浏览。由于本网站更新不一定及时，如发现校内的[网上预约平台](http://222.200.170.55:8081)上的任何内容和[实验室指南](https://neutrino3316.github.io/balyspusys/)的任何内容发生冲突，请以[网上预约平台](http://222.200.170.55:8081)上的内容为准。
+
 # 常用链接
 
-[网上预约平台](http://222.200.170.55:8081)
+- [网上预约平台](http://222.200.170.55:8081)
 
-[值班表](https://neutrino3316.github.io/balyspusys/docs/rota/)
+- [值班表](https://neutrino3316.github.io/balyspusys/docs/rota/)
 
-[常见问题](https://neutrino3316.github.io/balyspusys/QandA/navigation/)
+- [常见问题](https://neutrino3316.github.io/balyspusys/QandA/navigation/)
 
-[房间列表](https://neutrino3316.github.io/balyspusys/docs/room_list/)
+- [房间列表](https://neutrino3316.github.io/balyspusys/docs/room_list/)
 
-[实验室使用指引](https://neutrino3316.github.io/balyspusys/docs/03_lab_usage_tutorials/)
+- [实验室使用指引](https://neutrino3316.github.io/balyspusys/docs/03_lab_usage_tutorials/)
 
-[网上预约平台预约指引](https://neutrino3316.github.io/balyspusys/docs/02_appointment_tutorials/)
+- [网上预约平台预约指引](https://neutrino3316.github.io/balyspusys/docs/02_appointment_tutorials/)
 
-[网上预约平台注册指引](https://neutrino3316.github.io/balyspusys/docs/01_sign_up_tutorials/)
+- [网上预约平台注册指引](https://neutrino3316.github.io/balyspusys/docs/01_sign_up_tutorials/)
 
 # 说明
 
