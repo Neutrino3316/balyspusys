@@ -5,9 +5,11 @@ classes: wide
 
 ---
 
-# 重要提醒{: #warning_heading}
+# 重要提醒
+{: #warning_heading}
 
-提醒内容{: #warning_content}
+提醒内容
+{: #warning_content}
 
 # 常用链接
 
