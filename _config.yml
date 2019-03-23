@@ -75,7 +75,9 @@ bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
 
-head_scripts:
+# head_scripts:
+#   - /assets/js/reform_warning.js
+footer_scripts:
   - /assets/js/reform_warning.js
 
 # Social Sharing
