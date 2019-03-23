@@ -6,6 +6,12 @@ datatable: true
 classes: wide
 ---
 
+# 重要提醒
+{: #warning_heading}
+
+提醒内容
+{: #warning_content}
+
 # 303
 
 <div class="datatable-begin"></div>

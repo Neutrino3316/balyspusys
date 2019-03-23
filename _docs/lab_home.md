@@ -4,6 +4,12 @@ title: "实验室电脑主页"
 classes: wide
 ---
 
+# 重要提醒
+{: #warning_heading}
+
+提醒内容
+{: #warning_content}
+
 # 说明
 
 这个页面是实验室电脑的主页，可以向各位使用电脑的同学告知电脑使用指南。

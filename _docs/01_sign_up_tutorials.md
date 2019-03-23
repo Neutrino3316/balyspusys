@@ -5,6 +5,11 @@ excerpt: "网上预约平台注册指引"
 classes: wide
 ---
 
+# 重要提醒
+{: #warning_heading}
+
+提醒内容
+{: #warning_content}
 
 1. 在校园网登录[网上预约平台](http://222.200.170.55:8081)
 2. 选择注册——校内注册

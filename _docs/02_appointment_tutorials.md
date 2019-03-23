@@ -5,7 +5,11 @@ excerpt: "网上预约平台预约指引"
 classes: wide
 ---
 
+# 重要提醒
+{: #warning_heading}
 
+提醒内容
+{: #warning_content}
 
 1. 确认好自己的需求。可以参考[房间列表](https://neutrino3316.github.io/balyspusys/docs/room_list/)中的信息。明确自己要预约哪个时间段，哪个房间。并注意以下事项：
    1. 请提前确认好该房间是否可以满足需要，例如对软件有特殊需求的同学，请提前确认好该房间的电脑能否正常运行软件。

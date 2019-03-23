@@ -5,7 +5,11 @@ excerpt: "实验室使用指引"
 classes: wide
 ---
 
+# 重要提醒
+{: #warning_heading}
 
+提醒内容
+{: #warning_content}
 
 在预约好的时间段内刷卡开门。如预约了小房间（如303A），则大房间的门也可以开的（如303）。
 
