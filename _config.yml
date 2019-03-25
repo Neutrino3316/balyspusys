@@ -75,8 +75,8 @@ bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
 
-# head_scripts:
-#   - /assets/js/reform_warning.js
+head_scripts:
+  - /assets/js/gtag.js
 footer_scripts:
   - /assets/js/reform_warning.js
 
