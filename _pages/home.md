@@ -27,6 +27,8 @@ classes: wide
 
 - [网上预约平台注册指引](https://neutrino3316.github.io/balyspusys/docs/01_sign_up_tutorials/)
 
+- [吐槽专区](https://neutrino3316.github.io/balyspusys/QandA/03/)
+
 # 说明
 
 这个网站是学生助理自己建的，设有指南、值班表、常见问题等页面，方便大家使用实验室。
