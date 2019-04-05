@@ -15,7 +15,7 @@ remote_theme             : "academicpages/academicpages.github.io" # "mmistakes/
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "zh"
+locale                   : "en-US"
 title                    : "实验室指南"
 title_separator          : "-"
 name                     : "Neutrino"
