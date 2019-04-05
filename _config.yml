@@ -310,7 +310,7 @@ defaults:
       path: ""
       type: QandA
     values:
-      layout: single
+      layout: wide
       read_time: false
       author_profile: false
       share: false
