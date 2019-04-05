@@ -3,6 +3,7 @@ title: "值班表"
 permalink: /docs/rota/
 excerpt: "实验室助理的值班表"
 classes: wide
+locale: "en"
 ---
 
 # 重要提醒
