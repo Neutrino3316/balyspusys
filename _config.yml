@@ -311,7 +311,7 @@ defaults:
       type: QandA
     values:
       layout: single
-        classes: wide
+      classes: wide
       read_time: false
       author_profile: false
       share: false
