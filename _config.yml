@@ -11,11 +11,11 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme             : "academicpages/academicpages.github.io" # "mmistakes/minimal-mistakes"
+remote_theme             : "mmistakes/minimal-mistakes" # "mmistakes/minimal-mistakes", "academicpages/academicpages.github.io"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "zh-CN"
 title                    : "实验室指南"
 title_separator          : "-"
 name                     : "Neutrino"
