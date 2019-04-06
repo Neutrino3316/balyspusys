@@ -166,8 +166,6 @@ exclude:
   - README
   - tmp
   - /docs # ignore Minimal Mistakes /docs
-  - /files
-  - /images
   - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
