@@ -2,7 +2,6 @@
 title: "网上预约平台预约指引"
 permalink: /docs/02_appointment_tutorials/
 excerpt: "网上预约平台预约指引"
-classes: wide
 ---
 
 # 重要提醒

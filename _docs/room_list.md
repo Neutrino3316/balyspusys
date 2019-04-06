@@ -3,7 +3,6 @@ title: "房间列表"
 permalink: /docs/room_list/
 excerpt: "房间的预约信息"
 datatable: true
-classes: wide
 ---
 
 # 重要提醒

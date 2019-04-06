@@ -2,7 +2,6 @@
 title: "网上预约平台注册指引"
 permalink: /docs/01_sign_up_tutorials/
 excerpt: "网上预约平台注册指引"
-classes: wide
 ---
 
 # 重要提醒

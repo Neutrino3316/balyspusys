@@ -2,7 +2,6 @@
 title: "实验室使用指引"
 permalink: /docs/03_lab_usage_tutorials/
 excerpt: "实验室使用指引"
-classes: wide
 ---
 
 # 重要提醒

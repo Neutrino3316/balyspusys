@@ -2,7 +2,6 @@
 title: "实验室改革通知"
 permalink: /docs/lab_reform/
 excerpt: "实验室改革通知"
-classes: wide
 ---
 
 # 重要提醒

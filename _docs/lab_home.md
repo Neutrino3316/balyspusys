@@ -1,7 +1,6 @@
 ---
 permalink: /lab-homepage
 title: "实验室电脑主页"
-classes: wide
 ---
 
 # 重要提醒
