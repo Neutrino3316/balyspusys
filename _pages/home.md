@@ -35,6 +35,7 @@ feature_row:
     url: "/QandA/navigation/"
     btn_class: "btn--primary"
     btn_label: "立即进入"
+feature_row2:
   - image_path: https://images.pexels.com/photos/2084974/pexels-photo-2084974.jpeg?cs=srgb&dl=brunette-computer-computer-keyboard-2084974.jpg&fm=jpg
     alt: "实验室改革通知：所有学生必须通过《中山大学心理学系实验室管理和使用规范考试》并提交《中山大学心理学系规范使用实验室承诺书》后，才有预约和使用实验室的资格。"
     title: "实验室改革通知"
@@ -44,9 +45,11 @@ feature_row:
     btn_label: "立即进入"
 ---
 
+<link rel="stylesheet" href="https://at.alicdn.com/t/font_1128404_q6ba1h94yc.css">
+
 {% include feature_row %}
 
-<link rel="stylesheet" href="https://at.alicdn.com/t/font_1128404_q6ba1h94yc.css">
+{% include feature_row id="feature_row2" type="left" %}
 
 # 重要提醒
 {: #warning_heading}
