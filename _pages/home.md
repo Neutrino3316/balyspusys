@@ -4,7 +4,7 @@ permalink: /
 title: "实验室指南主页"
 header:
   overlay_filter: rgba(255, 0, 255, 0.1)
-  overlay_image: https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg
+  overlay_image: http://i6.xitek.com/photo/201411/19699/1969910/1969910_1417356326_69909800.jpg
   actions:
     - label: "<i class='fas fa-user' style='font-size:24px;'></i> 注册指南"
       url: "/01_sign_up_tutorials/"
@@ -12,26 +12,33 @@ header:
       url: "/02_appointment_tutorials/"
     - label: "<i class='fas fa-cog' style='font-size:24px;'></i> 使用指南"
       url: "/03_lab_usage_tutorials/"
-excerpt: 欢迎来到实验室指南。注册指南：如何注册网上预约平台。预约指南：如何在网上预约平台上进行预约。使用指南：应该如何使用实验室、使用过程的注意事项。
+excerpt: 欢迎来到实验室指南。<br />注册指南：如何注册网上预约平台。<br />预约指南：如何在网上预约平台上进行预约。<br />使用指南：应该如何使用实验室、使用过程的注意事项。
 feature_row:
-  - image_path: https://cdn.pixabay.com/photo/2017/08/07/23/16/seattle-2609031_960_720.jpg
+  - image_path: https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?cs=srgb&dl=artificial-intelligence-blur-close-up-546819.jpg&fm=jpg
     alt: "实验室网上预约平台"
     title: "网上预约平台"
     excerpt: "实验室网上预约平台"
     url: "http://222.200.170.55:8081"
     btn_class: "btn--primary"
     btn_label: "立即进入"
-  - image_path: https://cdn.pixabay.com/photo/2016/02/15/09/32/canton-tower-1200872_960_720.jpg
+  - image_path: https://images.pexels.com/photos/33999/pexels-photo.jpg?cs=srgb&dl=communication-contact-conversation-33999.jpg&fm=jpg
     alt: "学生助理的值班表"
     title: "值班表"
     excerpt: "学生助理的值班表"
     url: "/docs/rota/"
     btn_class: "btn--primary"
     btn_label: "立即进入"
-  - image_path: https://images.pexels.com/photos/373076/pexels-photo-373076.jpeg
+  - image_path: https://images.pexels.com/photos/373076/pexels-photo-373076.jpeg?cs=srgb&dl=blank-composition-data-373076.jpg&fm=jpg
     alt: "有关实验室的常见问题"
     title: "常见问题"
     excerpt: "有关实验室的常见问题"
+    url: "/QandA/navigation/"
+    btn_class: "btn--primary"
+    btn_label: "立即进入"
+  - image_path: https://images.pexels.com/photos/2084974/pexels-photo-2084974.jpeg?cs=srgb&dl=brunette-computer-computer-keyboard-2084974.jpg&fm=jpg
+    alt: "实验室改革通知：所有学生必须通过《中山大学心理学系实验室管理和使用规范考试》并提交《中山大学心理学系规范使用实验室承诺书》后，才有预约和使用实验室的资格。"
+    title: "实验室改革通知"
+    excerpt: "所有学生必须通过《中山大学心理学系实验室管理和使用规范考试》并提交《中山大学心理学系规范使用实验室承诺书》后，才有预约和使用实验室的资格。"
     url: "/QandA/navigation/"
     btn_class: "btn--primary"
     btn_label: "立即进入"
