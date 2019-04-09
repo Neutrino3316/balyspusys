@@ -7,11 +7,11 @@ header:
   overlay_image: http://i6.xitek.com/photo/201411/19699/1969910/1969910_1417356326_69909800.jpg
   actions:
     - label: "<i class='fas fa-user' style='font-size:24px;'></i> 注册指南"
-      url: "/01_sign_up_tutorials/"
+      url: "/docs/01_sign_up_tutorials/"
     - label: "<i class='fas fa-lightbulb-o' style='font-size:24px;'></i> 预约指南"
-      url: "/02_appointment_tutorials/"
+      url: "/docs/02_appointment_tutorials/"
     - label: "<i class='fas fa-cog' style='font-size:24px;'></i> 使用指南"
-      url: "/03_lab_usage_tutorials/"
+      url: "/docs/03_lab_usage_tutorials/"
 excerpt: 欢迎来到实验室指南。<br />注册指南：如何注册网上预约平台。<br />预约指南：如何在网上预约平台上进行预约。<br />使用指南：应该如何使用实验室、使用过程的注意事项。
 feature_row:
   - image_path: https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?cs=srgb&dl=artificial-intelligence-blur-close-up-546819.jpg&fm=jpg
@@ -39,7 +39,7 @@ feature_row:
     alt: "实验室改革通知：所有学生必须通过《中山大学心理学系实验室管理和使用规范考试》并提交《中山大学心理学系规范使用实验室承诺书》后，才有预约和使用实验室的资格。"
     title: "实验室改革通知"
     excerpt: "所有学生必须通过《中山大学心理学系实验室管理和使用规范考试》并提交《中山大学心理学系规范使用实验室承诺书》后，才有预约和使用实验室的资格。"
-    url: "/QandA/navigation/"
+    url: "/docs/lab_reform/"
     btn_class: "btn--primary"
     btn_label: "立即进入"
 ---
