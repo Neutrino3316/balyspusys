@@ -4,12 +4,6 @@ permalink: /docs/rota/
 excerpt: "实验室助理的值班表"
 ---
 
-# 重要提醒
-{: #warning_heading}
-
-提醒内容
-{: #warning_content}
-
 # 近期值班安排
 
 | 日期       | 星期   | 9:00~11:00 | 13:30~15:30 | 15:30~17:30 | 19:00~20:00 |
