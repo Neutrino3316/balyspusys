@@ -20,4 +20,7 @@
 docker run --name docker_balyspusys -t -p 4001:4000 -v e:/Study/CS/GitHub/balyspusys:/site bretfisher/jekyll-serve
 ```
 
+# 负载均衡
+
+如果可以访问到<http://172.18.35.126/balyspusys/assets/js/jump.js>，就把链接中的host从neutrino3316.github.io替换到172.18.35.126
 
