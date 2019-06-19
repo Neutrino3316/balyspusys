@@ -1,7 +1,23 @@
-这是某个地方的注册指引，在绝大部分情况下，你不应该看到这个页面。
+[TOC]
 
-**除非你很清楚自己在做什么，否则请关闭这个页面，谢谢**
+# 项目说明
 
-非常感谢AY提出的修改意见!
+实验室指南
 
-感谢AY对本网站的大力支持!
+# docker
+
+在本地的docker部署jekyll方法
+
+有三个可选用的镜像
+
+- <https://github.com/BretFisher/jekyll-serve>
+- <https://github.com/Starefossen/docker-github-pages>
+- <https://github.com/envygeeks/jekyll-docker>
+
+这里使用的是[BretFisher/jekyll-serve](https://github.com/BretFisher/jekyll-serve)
+
+```bash
+docker run --name docker_balyspusys -t -p 4001:4000 -v e:/Study/CS/GitHub/balyspusys:/site bretfisher/jekyll-serve
+```
+
+
