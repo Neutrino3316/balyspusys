@@ -17,6 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "zh-CN"
 title                    : "实验室指南"
+subtitle                 : # site tagline that appears below site title in masthead
 title_separator          : "-"
 name                     : "Neutrino"
 description              : "An amazing website."
@@ -106,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : " "
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "可点击下方链接预约实验房间，请注意在校园网环境下打开"
   location         : # "Somewhere"
